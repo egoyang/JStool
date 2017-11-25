@@ -1,5 +1,7 @@
 # JStool
 
+放一些自己写过的JS~
+
 ## 1.customAudio 
 
 自定义H5音乐播放器样式。
